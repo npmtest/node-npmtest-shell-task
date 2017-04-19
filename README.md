@@ -1,4 +1,7 @@
-# test coverage for  [shell-task (v1.0.0)](https://github.com/yyx990803/shell-task)  [![npm package](https://img.shields.io/npm/v/npmtest-shell-task.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shell-task) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shell-task.svg)](https://travis-ci.org/npmtest/node-npmtest-shell-task)
+# npmtest-shell-task
+
+#### basic test coverage for  [shell-task (v1.0.0)](https://github.com/yyx990803/shell-task)  [![npm package](https://img.shields.io/npm/v/npmtest-shell-task.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shell-task) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shell-task.svg)](https://travis-ci.org/npmtest/node-npmtest-shell-task)
+
 #### Proof-of-concept then-able shell commands in node.
 
 [![NPM](https://nodei.co/npm/shell-task.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/shell-task)
